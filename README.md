@@ -1,4 +1,4 @@
 - 👋 Oi, eu sou Lucas
 - 👀 Estou atualmente interessado em Programação 
-- 🌱 E estou aprendendo JavaScript
+- 🌱 Estou adquirindo conhecimento em HTML, CSS, JavaScript, Java e Banco de Dados
 - 📫 Você pode me contatar pelo meu Whatsapp +55 (61) 98180-6156
